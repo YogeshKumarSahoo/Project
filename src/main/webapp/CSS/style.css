@@ -1,0 +1,19 @@
+h1{
+	color:#fff;
+	font-size: 60px;
+}
+body{
+	font-size: 1.3em;
+	background-color: #5F8D4E;
+}
+.table .thead-dark th {
+	color: #fff;
+	background-color: #000;
+	border-color: #454d55; 
+ }
+ .container{
+ 	padding: 20px;
+ 	background-color:#A4BE7B;
+ 	border-radius: 30px;  
+ 	box-shadow: 10px 10px 5px lightblue;
+ }
